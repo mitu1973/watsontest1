@@ -1,6 +1,6 @@
 ---
 declared-services:
-  Conversation-92:
+  conversation-service:
     label: conversation
     plan: free
 applications:
